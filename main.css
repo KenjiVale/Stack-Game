@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  overflow: hidden;
+}
+#score {
+  position: absolute;
+  color: white;
+  font-size: 2cm;
+  font-weight: bold;
+  bottom: 30px;
+  right: 90px;
+}
+#announcement {
+  position: absolute;
+  color: red;
+  font-size: 48px;
+  font-weight: bold;
+  position: absolute;
+  top: 30px;
+  text-align: center;
+  display: none;
+  left: 50%;
+  margin-left: -350px;
+}
